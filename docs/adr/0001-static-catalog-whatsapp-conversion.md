@@ -1,0 +1,3 @@
+# Catálogo Estático com Conversão Direta via WhatsApp
+
+Para o espaço terapêutico Flor E Ser, decidimos construir um site institucional e catálogo de serviços utilizando Next.js 15 (App Router), TypeScript e Tailwind CSS, canalizando todos os pontos de contato diretamente para o WhatsApp através de mensagens pré-formatadas por serviço. Esta abordagem elimina a fricção e os custos de um sistema de checkout/e-commerce tradicional, prioriza a conversa humanizada essencial para terapias integrativas e entrega carregamento ultra-rápido com SEO e acessibilidade em conformidade com as Web Interface Guidelines.
